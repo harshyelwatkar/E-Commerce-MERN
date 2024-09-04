@@ -1,6 +1,6 @@
-# ShopIT E-commerce Project
+# ShopTech E-commerce Project
 
-> shopIT-Ecommerce-MERN-Application is a full-stack e-commerce application built with the MERN stack (MongoDB, Express, React, and Node.js). The application features user registration and login, product listing and search, cart and checkout, Stripe payment integration, and user reviews. The project is well-organized and documented, and it would be a good starting point for anyone who wants to learn how to build an e-commerce application with the MERN stack.
+> ShopTech-Ecommerce-MERN-Application is a full-stack e-commerce application built with the MERN stack (MongoDB, Express, React, and Node.js). The application features user registration and login, product listing and search, cart and checkout, Stripe payment integration, and user reviews. The project is well-organized and documented, and it would be a good starting point for anyone who wants to learn how to build an e-commerce application with the MERN stack.
 
 # Description
 
